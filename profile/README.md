@@ -2,7 +2,7 @@
 
 学会学习是为了更好地学习.
 
-[Website](https://bettermemory.cn/)
+访问我们的 [官方网站](https://bettermemory.cn/)
 
 ## About BetterMemory
 
